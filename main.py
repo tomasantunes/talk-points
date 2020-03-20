@@ -72,7 +72,7 @@ def menu():
 			print("Name: " + c["name"])
 			print("No. of jokes: " + str(c["n_jokes"]))
 			print("No. of tickets: " + str(c["n_tickets"]))
-			print("No. of tickets: " + str(c["n_solutions"]))
+			print("No. of solutions: " + str(c["n_solutions"]))
 			print("\n-----------------------------------------------\n")
 
 		menu()
